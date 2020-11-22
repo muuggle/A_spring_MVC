@@ -7,7 +7,7 @@
         </layout>
     </appender>
 
-    <logger name="com.itranswarp.learnjava" level="info" additivity="false">
+    <logger name="Codes" level="info" additivity="false">
         <appender-ref ref="STDOUT" />
     </logger>
 
